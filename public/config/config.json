@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x8f37834c867873211498FEc341E3dbC4C6DD8EDB",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8f37834c867873211498FEc341E3dbC4C6DD8EDB",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Chibis",
+  "SYMBOL": "CC",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptochibicollection",
+  "DISCORD_LINK": "https://discord.gg/HyYmneNRzj",
+  "SHOW_BACKGROUND": true
+}
